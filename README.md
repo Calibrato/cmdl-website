@@ -1,2 +1,2 @@
-# cmdl-website
-Website for cmdl
+# cmdl Website
+A simple website for cmdl and pshl
